@@ -1,0 +1,6 @@
+.add-to-calendar-btn-wrap{    
+    position: absolute;
+}
+.disabled {
+    pointer-events: none;
+}
